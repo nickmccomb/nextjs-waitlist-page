@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter_Tight({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rememberall.ai",
+  title: "Rememberall",
   description: "A simple to use, cozy, reminder app for iOS and Android.",
   icons: {
     icon: "/favicon.ico",
