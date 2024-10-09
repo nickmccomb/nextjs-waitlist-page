@@ -27,7 +27,7 @@ export default function Home() {
           />
 
           <h1 className="font-semibold tracking-tight text-zinc-900 text-3xl leading-tight md:text-4xl max-w-lg">
-            Rememberall
+            Remembrall
           </h1>
           <p className="text-gray-500 mb-6">
             A simple to use, cozy, reminder app for iOS and Android 🥰
